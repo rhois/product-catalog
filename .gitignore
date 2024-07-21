@@ -1,0 +1,15 @@
+# Go
+*.exe
+*.test
+*.out
+/vendor/
+bin/
+
+# Node
+node_modules/
+.next/
+out/
+*.log
+
+# Environment
+.env
